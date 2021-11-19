@@ -18,7 +18,7 @@ Don't Forget to give a Star, and Follow my [Github Account](https://github.com/A
 ## Direct Deploy
 Click Below Button to Deploy your Bot.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AJTimePyro/PdiskUploaderBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Oxyver5600/PdiskUploaderBot)
 
 ## Support Telegram Group and Channel
 
